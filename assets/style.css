@@ -81,7 +81,7 @@ body {
     float: right;
     margin-top: 25px;
   }
-  
+
   
   nav a {
     display: inline-block;
@@ -208,7 +208,7 @@ body {
     height: 200px;
   }
   
-  input[type=submit] {
+  #contactButton {
     padding: 10px 30px;
     font-size: 18px;
     color: #ffffff;
